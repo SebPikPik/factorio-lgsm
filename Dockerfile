@@ -1,0 +1,1 @@
+FROM gameservermanagers/gameserver:fctr
